@@ -1,4 +1,4 @@
-import { Text, View } from "@/components/Themed";
+import { View, Text } from "react-native";
 
 export default function Profile() {
   return (
